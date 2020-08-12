@@ -1,0 +1,60 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <Compression>
+            <mb1>NoctoHelix II</mb1>
+        </Compression>
+        <Darkness>
+            <mb1>Water IV</mb1>
+            <mb2>Water III</mb2>
+        </Darkness>
+        <Detonation>
+            <mb1>Aero IV</mb1>
+            <mb2>Aero III</mb2>
+        </Detonation>
+        <Distortion>
+            <mb1>Water IV</mb1>
+            <mb2>Water III</mb2>
+        </Distortion>
+        <Fragmentation>
+            <mb1>Thunder IV</mb1>
+            <mb2>Thunder III</mb2>
+        </Fragmentation>
+        <Fusion>
+            <mb1>Fire V</mb1>
+            <mb2>Fire III</mb2>
+        </Fusion>
+        <Gravitation>
+            <mb1>Stone IV</mb1>
+            <mb2>Stone III</mb2>
+        </Gravitation>
+        <Impaction>
+            <mb1>Thunder IV</mb1>
+            <mb2>Thunder III</mb2>
+        </Impaction>
+        <Induration>
+            <mb1>Blizzard IV</mb1>
+            <mb2>Blizzard III</mb2>
+        </Induration>
+        <Light>
+            <mb1>Thunder II</mb1>
+            <mb2>Thunder III</mb2>
+        </Light>
+        <Liquefaction>
+            <mb1>Fire IV</mb1>
+            <mb2>Fire III</mb2>
+        </Liquefaction>
+        <Reverberation>
+            <mb1>Water IV</mb1>
+            <mb2>Water III</mb2>
+        </Reverberation>
+        <Scission>
+            <mb1>Stone IV</mb1>
+            <mb2>Stone III</mb2>
+        </Scission>
+        <Transfixion>
+            <mb1>Thunder IV</mb1>
+            <mb2>Thunder III</mb2>
+        </Transfixion>
+    </global>
+</settings>
